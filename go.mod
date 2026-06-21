@@ -8,8 +8,8 @@ tool (
 )
 
 require (
-	github.com/onsi/ginkgo/v2 v2.30.0
-	github.com/onsi/gomega v1.41.0
+	github.com/onsi/ginkgo/v2 v2.31.0
+	github.com/onsi/gomega v1.42.0
 	github.com/sqlc-dev/plugin-sdk-go v1.23.0
 	google.golang.org/protobuf v1.36.11
 )
