@@ -9,7 +9,7 @@ tool (
 
 require (
 	github.com/onsi/ginkgo/v2 v2.33.0
-	github.com/onsi/gomega v1.43.1
+	github.com/onsi/gomega v1.44.0
 	github.com/sqlc-dev/plugin-sdk-go v1.23.0
 	google.golang.org/protobuf v1.36.12
 )
