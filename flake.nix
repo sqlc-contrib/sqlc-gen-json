@@ -25,7 +25,7 @@
           # — go's `go mod vendor` would otherwise prune package paths,
           # because buildGoModule runs it before all imports are visible.
           proxyVendor = true;
-          vendorHash = "sha256-qZHqeuqu+hRvmKujRkM8kjFxSYogSYPhr+2PAd/S2O4=";
+          vendorHash = "sha256-kakCorqWxXh0PNSN4MoVrNVTkdnYJB35xOiVYAPtHa0=";
         };
       in
       {
