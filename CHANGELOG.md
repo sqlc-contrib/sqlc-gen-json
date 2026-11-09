@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/sqlc-contrib/sqlc-gen-json/compare/v0.1.1...v0.1.2) (2026-11-09)
+
+
+### Bug Fixes
+
+* **ci:** merge with the App token so main gets its CI run ([#51](https://github.com/sqlc-contrib/sqlc-gen-json/issues/51)) ([6a51688](https://github.com/sqlc-contrib/sqlc-gen-json/commit/6a51688cdd632a97313667a10de21699d8662187))
+
 ## [0.1.1](https://github.com/sqlc-contrib/sqlc-gen-json/compare/v0.1.0...v0.1.1) (2026-05-04)
 
 
